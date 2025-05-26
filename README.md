@@ -1,7 +1,7 @@
 <!---
 Yeah this is created to make the GitHub profile less boring.
 --->
+![wordart](https://github.com/user-attachments/assets/5aacfb40-c13e-4fc3-b7ab-dc833b75dd92)
 
-![wordart](https://github.com/user-attachments/assets/6ec4f508-188e-46c4-b347-8db59c7c0c29)
 
 Yeah believe me.
